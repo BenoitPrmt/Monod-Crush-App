@@ -1,2 +1,4 @@
 # Monod-Crush-App
-App for MonodCrush
+
+Not working for the moment !
+Flutter app for the [MonodCrush](https://github.com/BenoitObelia/Monod-Crush) project.
